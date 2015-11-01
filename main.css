@@ -1,0 +1,120 @@
+#gameboard {
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#title {
+    width:600px;
+    height:150px;
+    background-image: url('assets/title.png');
+}
+
+#door1 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door1.png');
+}
+#door1:hover{
+    background-image: url('assets/door1hover.png');
+}
+#door1:active{
+    background-image: url('assets/door9open.png');
+}
+#door2 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door2.png');
+}
+#door2:hover{
+    background-image: url('assets/door2hover.png');
+}
+#door2:active{
+    background-image: url('assets/dooropen.png');
+}
+#door3 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door3.png');
+}
+#door3:hover{
+    background-image: url('assets/door3hover.png');
+}
+#door3:active{
+    background-image: url('assets/dooropen.png');
+}
+#door4 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door4.png');
+}
+#door4:hover{
+    background-image: url('assets/door4hover.png');
+}
+#door4:active{
+    background-image: url('assets/dooropen.png');
+}
+#door5 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door5.png');
+}
+#door5:hover{
+    background-image: url('assets/door5hover.png');
+}
+#door5:active{
+    background-image: url('assets/dooropen.png');
+}
+#door6 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door6.png');
+}
+#door6:hover{
+    background-image: url('assets/door6hover.png');
+}
+#door6:active{
+    background-image: url('assets/dooropen.png');
+}
+#door7 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door7.png');
+}
+#door7:hover{
+    background-image: url('assets/door7hover.png');
+}
+#door7:active{
+    background-image: url('assets/dooropen.png');
+}
+#door8 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door8.png');
+}
+#door8:hover{
+    background-image: url('assets/door8hover.png');
+}
+#door8:active{
+    background-image: url('assets/dooropen.png');
+}
+#door9 {
+    width:200px;
+    height:200px;
+    float:left;
+    background-image: url('assets/door9.png');
+}
+#door9:hover{
+    background-image: url('assets/door9hover.png');
+}
+#door9:active{
+    background-image: url('assets/dooropen.png');
+}
